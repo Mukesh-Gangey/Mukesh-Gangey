@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>Hi 👋, I'm **Mukesh Gangey**, an Electronics and Communication Engineering (ECE) student passionate about Artificial Intelligence, Machine Learning, and Wireless Communication. I enjoy building real-world projects using Python and MATLAB while exploring Deep Learning, Signal Processing, and AI-driven technologies.<br><br>I am actively working on projects related to modulation classification, wireless coverage prediction, ECG signal analysis, and computer vision applications. I love solving technical problems, learning new technologies, and improving my development skills through hands-on experience.<br><br>Currently, I am focused on Deep Learning, CNNs, and AI applications in wireless communication systems. I am always eager to collaborate on innovative projects and explore emerging technologies in AI and embedded systems.<br>
+## 🚀 About Me<br><br>Hi 👋, I'm **Mukesh Gangey**, an Electronics and Communication Engineering (ECE) student passionate about Artificial Intelligence, Machine Learning, and Wireless Communication.<br>
 
 
 ## 🌐 Socials:
