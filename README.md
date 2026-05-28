@@ -50,11 +50,11 @@
 ---
 
 ## 📌 Projects
-- AI-Based Modulation Classification
-- Wireless Coverage Prediction
+- Student Marks Prediction
+- House Price Prediction
 - Smart Attendance System
-- ECG Signal Classification
-- QAM Modulation Simulator
+- Iris Flower Classification
+- Spam Message Detection
 
 ---
 
