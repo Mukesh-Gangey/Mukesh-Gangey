@@ -1,10 +1,82 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi 👋, I'm **Mukesh Gangey**, an Electronics and Communication Engineering (ECE) student passionate about Artificial Intelligence, Machine Learning, and Wireless Communication.<br>
+<h1 align="center">Hi 👋, I'm Mukesh Gangey</h1>
+<h3 align="center">ECE Student | AI/ML Enthusiast | MATLAB & Python Developer</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MukeshGangey) 
+## 🚀 About Me
+- 🎓 Electronics & Communication Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📡 Interested in Wireless Communication & Signal Processing
+- 🧠 Learning Deep Learning and CNN
+- 💻 Building Python & MATLAB Projects
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+---
 
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/Mukesh-Gangey">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn"/>
+
+</p>
+
+---
+
+## 📌 Projects
+- AI-Based Modulation Classification
+- Wireless Coverage Prediction
+- Smart Attendance System
+- ECG Signal Classification
+- QAM Modulation Simulator
+
+---
+
+## 🌱 Currently Learning
+- Deep Learning
+- CNN
+- AI for Wireless Communication
+
+---
+
+## 📊 GitHub Stats
+
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh-Gangey&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mukesh-Gangey&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Mukesh-Gangey&color=blue)
